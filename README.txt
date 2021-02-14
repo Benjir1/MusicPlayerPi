@@ -1,4 +1,4 @@
-PiMusicPlayer, Made by: Benjir
+MusicPlayerPi, Made by: Benjir
 
 INSTALLATION GUIDE(ON THE PI):
 
